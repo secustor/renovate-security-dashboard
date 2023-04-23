@@ -3,5 +3,5 @@
   "extends": [
     "config:base"
   ],
-  "dependencyDashboardVulnerabilitySummary": "all"
+  "dependencyDashboardOSVVulnerabilitySummary": "all"
 }
